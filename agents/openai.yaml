@@ -1,0 +1,4 @@
+interface:
+  display_name: "Instagram Cover Design JA"
+  short_description: "日本語Instagram投稿とReels表紙のプロンプトを作成"
+  default_prompt: "$gbro-cover-design-ja を使って、この内容に合う日本語Instagramカバーを設計してください。"
